@@ -198,7 +198,7 @@
               
      "stations": [
         	  {
-"image": "https://pbs.twimg.com/profile_images/1397115731024646149/S-PAM1Jj_400x400.jpg","name": "H.O.C.18","url": "https://raw.githubusercontent.com/mnhawiseplay/wiseplay/adult/video/hoc18.m3u","playInNatPlayer": "true","isHost": "true"},{
+"image": "https://pbs.twimg.com/profile_images/1397115731024646149/S-PAM1Jj_400x400.jpg","name": "H.O.C.18","url": "https://raw.githubusercontent.com/mnhawiseplay/wiseplay/adult/video/hoc18.m3u","playInNatPlayer": "true","isHost": "true","userAgent": "MXPlayer/1.11.4 (Linux; Android 4.4.2; vi-VN; NEO-X8H-PLUS Build/KOT49H.20170119 release-keys)"},{
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeVKVbZfMi8BFeOSnvRYMq-5AGjBfg27_H3F8vt37H0mdBQva-fg","name": "Đọc truyện tranh tại HentaiVN","url": "https://hentaivn.net","isHost": "true","userAgent": "MXPlayer/1.11.4 (Linux; Android 4.4.2; vi-VN; NEO-X8H-PLUS Build/KOT49H.20170119 release-keys)"
 },		 
 ]
