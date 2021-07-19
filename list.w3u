@@ -138,7 +138,7 @@
      "stations": [
         	  {
 
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/300px-Cartoon_Network_2010_logo.svg.pngjpg","name": "Cartoon Network (Vietnam GMT+7)","url": "https://github.com/mnhawiseplay-replay/channeltv/blob/vietnam/cartoonhd.md","playInNatPlayer": "true","embed": "true"},{
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/300px-Cartoon_Network_2010_logo.svg.pngjpg","name": "Cartoon Network (Vietnam GMT+7)","url": "https://github.com/mnhawiseplay-replay/channeltv/blob/vietnam/cartoonhd.md","playInNatPlayer": "true","embed": "true","userAgent": "MXPlayer/1.11.4 (Linux; Android 4.4.2; vi-VN; NEO-X8H-PLUS Build/KOT49H.20170119 release-keys)},{
 "image": "https://yt3.ggpht.com/ytc/AKedOLQe-gc9Y8Mk8oQryhokQ8faAMEbLjQVr1fLBSWU5A=s176-c-k-c0x00ffffff-no-rj","name": "Boomerang (Vietnam GMT+7)","url": "https://github.com/mnhawiseplay-replay/channeltv/blob/vietnam/boomerang.md","playInNatPlayer": "true","embed": "true"},{
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Bong-da-tv-logo.png/800px-Bong-da-tv-logo.png","name": "Bóng đá TV (Vietnam GMT+7)","url": "https://github.com/mnhawiseplay-replay/channeltv/blob/vietnam/vtvcab16_bong_da_tv.md","playInNatPlayer": "true","embed": "true"
    }
