@@ -1,8 +1,8 @@
 {
-    "name": "Anime",
-    "author": "chunglop0781@gmail.com",
+    "name": "Replay Channel",
+    "author": "chunglop0781@gmail.com (Tìm kênh, múi giờ, tên nước để xem lại.Find channel, time zone, country name to watch again.)",
     "image": "https://assets3.thrillist.com/v1/image/2813543/size/gn-gift_guide_variable_c_2x.jpg",
-    "url": "https://raw.githubusercontent.com/chunglop0781/iptv/master/anime.w3u",
+    "url": "https://raw.githubusercontent.com/mnhawiseplay/wiseplay/main/anime.w3u",
    "groups": [
                   { 
 
