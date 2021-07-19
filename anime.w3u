@@ -131,6 +131,91 @@
 "name": "DISNEY XD","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1155.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
 "name": "DISNEY JUNIOR HD","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1156.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
 "name": "DISNEY CHANNEL","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1157.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git" 
+     "name": "Doraemon tập dài",
+     "image": "https://upload.wikimedia.org/wikipedia/vi/thumb/b/bb/Logo_Doraemon_new_version.jpg/275px-Logo_Doraemon_new_version.jpg",
+              
+     "stations": [
+        	  {
+
+"name": "BBC 1","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1174.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "BBC 2","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1173.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "BBC 3","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1172.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "BBC 4","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1171.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "BBC NEWS","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1170.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "SKY NEWS","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1132.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "SKY MOVIES PREMIERE","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1136.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "SKY MOVIES GREATS","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1137.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "FOX","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1151.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "LIFETIME","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1149.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "NATIONAL GEOGRAPHIC HD","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1146.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "INVESTIGATION DISCOVERY IRELAND","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1150.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "DISCOVERY TURBO","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1158.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "DISCOVERY SCIENCE CHANNEL","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1159.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "DISCOVERY HOME&HEALTH","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1160.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "DISCOVERY HISTORY","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1161.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "DISCOVERY CHANNEL","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1162.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "MTV HITS","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1147.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "MTV HD","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1148.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "SKY SPORTS NEWS","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1125.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "PREMIER SPORTS","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1145.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "EUROSPORT 1 HD","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1154.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "EUROSPORT 2 HD","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1153.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "SKY SPORTS 1","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1131.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "SKY SPORTS 2","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1130.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "SKY SPORTS 3","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1129.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "SKY SPORTS 4","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1128.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "SKY SPORTS 5","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1127.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "SKY SPORTS F1","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1126.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "BT SPORT EUROPE HD","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1165.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "BT SPORT 1 HD","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1168.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "BT SPORT 2 HD","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1167.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "FIGHTBOX HD","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1152.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "ANIMAL PLANET","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/16460.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "BABY TV","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/16441.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "BBC ALBA","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/16444.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "CBC CA","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/16459.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "CBS ACTION","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/16421.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "CBS DRAMA","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/16420.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "CBS HD","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/16458.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "CBS REALITY","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/16422.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "CHANNEL 4","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/16426.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "CHANNEL 5","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/16425.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "CHELSEA TV","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/16436.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "CNN US","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/16457.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "COMEDY CENTRAL EXTRA","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/16456.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "DISNEY JUNIOR","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/16461.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "ENCORE","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/16427.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "GOLD","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/16423.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "HOME","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/16434.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "ITV1","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/16431.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "ITV2","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/16430.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "ITV3","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/16429.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "ITV4","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/16428.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "LFC","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/16439.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "MOVIES 24","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/16440.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "MTV DANCE","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/16455.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "MTV MUSIC","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/16454.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "MUTV","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/16437.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "NICK JR","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/16453.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "NICKTOON","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/16452.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "PICK","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/16442.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "RACING","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/16438.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "SKY 1","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/16424.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "SKY 2","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/16451.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "SKY ACTION","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/16450.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "SKY ATLANTIC","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/16449.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "SKY COMEDY MOVIE","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/16448.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "SKY DISNEY MOVIE","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/16447.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "SKY SCFI HORROR","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/16446.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "SKY THRILLER","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/16445.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "TCM","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/16443.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "TLC","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/16419.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "TRAVEL CHANNEL","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/16435.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "UTV","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/16432.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "BT SPORT ESPN","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1166.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "DISNEY XD","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1155.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "DISNEY JUNIOR HD","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1156.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": "DISNEY CHANNEL","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1157.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git" 
 
    }
                 
