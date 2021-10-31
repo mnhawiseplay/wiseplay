@@ -4,9 +4,9 @@
 "info": "mnhawiseplay♥",
 "groups": [{
 "name":"Importar Listas","image": "https://i.imgur.com/YAaMwxN.png","stations":[
-  {"name": "FPT Play","image": "https://avatars.githubusercontent.com/u/90173197?s=200&v=4","url": "https://fptplay-vn.github.io/iptv.m3u","import": "true"},
+  {"name": "FPT Play","image": "https://avatars.githubusercontent.com/u/90173197?s=200&v=4","url": "https://mnhawiseplay.github.io/fptplay-vn/iptv.m3u","import": "true"},
   {"name": "Zing TV","image": "https://avatars.githubusercontent.com/u/93314795?s=200&v=4","url": "https://zingtv.github.io/iptv.m3u","import": "true"},
 ]},
-      {"name": "FPT Play","image": "https://avatars.githubusercontent.com/u/90173197?s=200&v=4","url": "https://fptplay-vn.github.io/iptv.m3u"},
+      {"name": "FPT Play","image": "https://avatars.githubusercontent.com/u/90173197?s=200&v=4","url": "https://mnhawiseplay.github.io/fptplay-vn/iptv.m3u"},
       {"name": "Zing TV","image": "https://avatars.githubusercontent.com/u/93314795?s=200&v=4","url": "https://zingtv.github.io/iptv.m3u"},
 ]}
